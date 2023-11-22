@@ -93,6 +93,7 @@ ul li{
     font-weight: 600;
     cursor: pointer;
     padding: 12px 8px 12px 50px;
+    word-break:break-all;
 }
 ul li span{
     position: absolute;
